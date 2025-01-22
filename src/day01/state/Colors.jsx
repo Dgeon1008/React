@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 // 빨간색 버튼을 누르면 글자색을 빨갛게
 // 파란색 버튼을 누르면 글자색을 파랗게
 // 핑크색을 입력하면 글자의 색깔을 없앤다.
+// set 동적변화 감지
 
 const Colors = () => {
   const result = "김동건"
